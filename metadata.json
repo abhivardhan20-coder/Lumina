@@ -1,0 +1,6 @@
+{
+  "name": "Lumina",
+  "description": "An intelligent platform that connects people with causes they care about and turns volunteering into visible, meaningful impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
